@@ -42,7 +42,6 @@ sol=lu_solve(result,B)
 print(sol)
 ```
 ## Output:
-![lu decomposition]()
 ![image](https://github.com/SJananisenthilkumar/LU-Decomposition/assets/144871139/70f9b69d-037d-4b23-a0ff-fb45b696449e)
 ![image](https://github.com/SJananisenthilkumar/LU-Decomposition/assets/144871139/fe7ec9c5-8cc6-414b-9a92-fce1502f21f3)
 
