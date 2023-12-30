@@ -42,9 +42,9 @@ sol=lu_solve(result,B)
 print(sol)
 ```
 ## Output:
-## (i) To find the L and U matrix
+(i) To find the L and U matrix
 ![image](https://github.com/SJananisenthilkumar/LU-Decomposition/assets/144871139/70f9b69d-037d-4b23-a0ff-fb45b696449e)
-## (ii) To find the LU Decomposition of a matrix
+(ii) To find the LU Decomposition of a matrix
 ![image](https://github.com/SJananisenthilkumar/LU-Decomposition/assets/144871139/fe7ec9c5-8cc6-414b-9a92-fce1502f21f3)
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
